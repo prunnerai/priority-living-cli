@@ -1,0 +1,13 @@
+{
+  "version": "3.0.0",
+  "updated_at": "2026-02-21T02:19:01.694Z",
+  "platform": "Priority Living",
+  "min_python": "3.7",
+  "features": [
+    "bridge",
+    "agents",
+    "models",
+    "diagnostics",
+    "config"
+  ]
+}
